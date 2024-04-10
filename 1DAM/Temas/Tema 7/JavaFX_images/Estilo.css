@@ -1,0 +1,14 @@
+/* Estilos para todos los botones */
+Button {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px 15px;
+}
+
+/* Estilos para botones con clase "boton-especial" */
+.boton-especial {
+    -fx-text-fill: red;
+    -fx-background-color: black;
+}
